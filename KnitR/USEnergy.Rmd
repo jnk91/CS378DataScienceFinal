@@ -1,0 +1,232 @@
+US Energy
+====
+##Dataset
+
+Our data was taken from eia.gov. [Energy Information Administration](http://eia.gov).
+EIA provides a wide range of information and data products covering energy production, stocks, demand, imports, exports, and prices.
+In particular, we focused on energy production relating to renewable energy.
+This includes Solar, Geothermal, Wind, Hydroelectric, Biomass, Biodiesel, and Ethanol.
+EIA provides monthly energy reviews, and have been publishing them since 1976, with
+both annual and monthly data statistics.
+We downloaded multiple tables and uploaded them to the DS_US_ENERGY account.
+
+
+##Summary
+By using anomaly detection from Oracle Data Miner, we were able to identify multiple
+months of abnormal growth in energy production. With the current data we have, we were
+unable to identify why these months exhibited large growth in their respective energy
+sources. Follow-up investigations on these particular years is required. 
+
+This summary lists the years of the anomalous months for generality.
+The values are in percent and represent the percent growth of the particular energy
+source in contrast with the previous month.
+
+![](./pics/Summary.png)
+
+##Analysis
+
+###Oracle Data Miner
+The major focus of our analysis was the Anomaly Detection algorithm of Oracle
+Data Miner. In short, the Anomaly Detection algorithm examines the data given to it,
+and records 2 values that describes the abnormality of each entry.
+These 2 values produced by the SVM (Support Vector Machine) are the ANOM_SVM_PRED and
+ANOM_SVM_PROB.
+
+####Workflow
+Our workflow is included in the DataMiner folder.
+Here is a picture showing our Anomaly Detection Query
+Data Correction SQL Queries were required to convert Date/Time values into numeric
+values as well as aggregate the data allowing for the creation of the calculated fields
+needed by the Anomaly Detection.
+
+
+![](./pics/Workflow.png)
+
+
+###ANOMALY DETECTION
+
+####ANOM_SVM_PRED
+A value of 0 indicates that the entry is anomalous.
+A value of 1 indicates that the entry is NOT anomalous.
+
+####ANOM_SVM_PROB
+This value indicates the probability that the entry is typical or atypical.
+The higher the value (as it gets closer to 1) the more anomalous the entry is.
+
+####Anomaly Detection Result Sample
+A small sample picture of the Anomaly Detection Query.
+
+Sorted first by ANOM_SVM_PRED-Ascending(anomalous entries at the top/Value of 0)
+
+Then by ANOM_SVM_PROB-Descending(most anomalous entries at the top/Highest probability)
+
+
+![](./pics/AnomalyTable.png)
+
+###Tableau
+We then extracted this table to an excel file to allow it to be plotted in Tableau.
+
+The table is located in Tableau folder and is named "Anomaly.xlsx"
+
+####Tableau Representation of Anomalies
+In this Tableau representation, each circle represents a MONTH. Notice that in a
+particular year, there are overlapping circles to represent each month of that year.
+
+The X Axis represents years.
+
+ANOM_SVM_PRED is denoted by color, where RED indicates the month had a value of 0,
+and is therefore an anomaly.
+
+Green indicates the month is NOT anomalous.
+
+ANOM_SVM_PROB is the Y Axis.
+
+From this representation, we notice 5 anomalous MONTHS in the years 1976, 1981,
+1989, 2010, and 2014.
+
+We now decided to look at those particular anomalous months and examine their
+respective energy production values.
+
+![](./pics/Anomalies.png)
+
+
+###Anomaly Analysis
+Because there is only 1 anomalous month in the years mentioned above, we will
+just refer to the anomalies by their year.
+
+We examined each month's energy production and here are our results.
+
+####1976
+The reason why 1976 was so high on the SVM's probability value is that it was the
+very first entry recorded and displayed unique values for our calculated fields.
+
+It was the only month that displayed stagnant and same values for each energy source.
+
+![](./pics/1976.png)
+
+
+####1981
+From the picture below, you can see the extremely high percent growth of Ethanol
+relative to the other energy sources.
+
+![](./pics/1981All.png)
+
+####1981 Ethanol Tableau
+A Tableau representation of Ethanol Percent Growth (with Anomalies colored) over the
+years shows that 1981 is most likely anomalous due to Ethanol's abnormal growth in 
+that one instance.
+
+![](./pics/1981Ethanol.png)
+
+
+
+####1989
+In 1989, examination of energy production of all energy sources shows that there
+was a large growth in Solar and Wind energy. We now have to examine both Solar
+and Wind Energy production over the years.
+
+![](./pics/1989All.png)
+
+
+####1989 Solar Tableau
+As you can see, a plot of Solar Production over the years shows the extremely large
+growth in 1989.
+
+![](./pics/1989Solar.png)
+
+
+####1989 Wind Tableau
+As you can see, a plot of Wind Production over the years shows the extremely large
+growth in 1989.
+
+NOTE: An important point is that there was an even larger growth in 1994.
+
+This will be addressed later, for now it is safe to say that 1989 was considered
+anomalous due to the large Solar and Wind growth in production.
+
+![](./pics/1989Wind.png)
+
+
+####2010
+In 2010, examination of energy production of all energy sources shows that there
+was a large growth in Biodiesel production.
+
+![](./pics/2010All.png)
+
+
+####2010 Biodiesel Tableau
+Again we look at the Tableau representation of Biodiesel Percent Growth (with Anomalies
+colored). This shows that 2010 is most likely anomalous due to Biodiesel's abnormal 
+growth in that particular month.
+
+![](./pics/2010Biodiesel.png)
+
+
+####2014
+Finally, the last anomaly to examine is 2014. examination of energy production of all 
+energy sources shows that there was a decent growth in Solar and Hydroelectric
+production.
+
+#####NOTE: However these values are nowhere near as large as our previous growths.
+
+![](./pics/2014All.png)
+
+####2014 Hydroelectric Tableau
+Just like before we look at the Tableau representation of Hydroelectric Percent Growth
+(with Anomalies colored). This however shows that the growth of Hydroelectric Energy
+wasn't necessarily that high in comparison with its other years.
+
+We can conclude that hydroelectric energy growth was not a large factor in the SVM's
+decision to deem this month anomalous.
+
+![](./pics/Hydroelectric.png)
+
+####2014 Solar Tableau
+Because the Solar Tableau representation is skewed with the extremely large growth in
+1989, we filtered out that particular month and examined the rest of the entries.
+
+Once filtered, we can see that 2014 does have a relatively large percent growth
+in comparison with the other months. This could be why 2014 was considered anomalous
+by the SVM.
+
+![](./pics/SolarFiltered.png)
+
+
+####Wind Revisited
+Going back to Wind Production over the years, we notice that 1994 was anomalous but
+was not listed in our top 5 anomalous years.
+
+![](./pics/1994Wind.png)
+
+#####Anomalies Picture
+#####NOTE: NO 1994
+
+![](./pics/Anomalies.png)
+
+####1994
+Looking further we can see that Wind growth compared to other energy sources was
+extremely large but also that this growth is the HIGHEST out of any of the other
+anomalous months (Previous high was ~70% increase in solar 1989).
+
+This wind percentage growth is 116%!
+
+![](./pics/1994All.png)
+
+####1994 Summary
+Although this wind growth was the highest we've seen out of any energy source,
+the SVM did not give the entry a high probability value and was therefore not
+in the top 5 anomalous months.
+
+
+###Summary
+Unfortunately, we were unable to explain these large energy growths or why
+1994 was not listed higher in the anomalous probability scale.
+
+We tried looking into energy prices and matching these energy growths with any
+changes but found no correlations.
+
+We also looked at energy subsidies and found no correlation with these growths.
+
+Further investigation needed to explain these growths.
+
+
