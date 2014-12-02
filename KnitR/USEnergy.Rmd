@@ -233,19 +233,19 @@ the SVM did not give the entry a high probability value and was therefore not
 in the top 5 anomalous months.
 
 
-###Clustering
+###Clustering Algorithm
   While we ran the clustering algorithms, we were unable to gather anything 
 substianting or anything interesting. One method suggested was to find the months
 that had the specific characteristics and plot them on a timeline to see if the
 months might have been consecutive. If they were consecutive then we could have
 investigated further.
 
-####Monthly Cluster
+####Monthly Clustering
 
 ![](./pics/Cluster1.png)
 
 
-####Monthly(with Subsidies) Cluster
+####Monthly(with Subsidies) Clustering
 
 ![](./pics/Cluster2.png)
 
