@@ -240,13 +240,14 @@ that had the specific characteristics and plot them on a timeline to see if the
 months might have been consecutive. If they were consecutive then we could have
 investigated further.
 
-####Monthly Clustering
+####Monthly(without Subsidies) Clustering
 
-![](./pics/Cluster1.png)
-
+![](./pics/Cluster3.png)
+![](./pics/Cluster4.png)
 
 ####Monthly(with Subsidies) Clustering
 
+![](./pics/Cluster11.png)
 ![](./pics/Cluster2.png)
 
 
