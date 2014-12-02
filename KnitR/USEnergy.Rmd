@@ -43,6 +43,21 @@ needed by the Anomaly Detection.
 ![](./pics/Workflow.png)
 
 
+####SQL Queries
+We were able to aggregate energy output from a specific source after using subqueries.
+We totaled each energy source by adding the output from each sector. 
+
+For example: We summed the total solar energy output for that month by adding the
+residential sector output, industrial output, commercial output, and so forth.
+
+In order to generate useful calculated fields, we used the lag function to calculate
+percent growth of energy output from the previous month. We then classified growth for
+each source with a relative range.
+
+	Each calculation has a raw percent as well as a classified field of [High - , Med - ,Low - , stagnant , Low + , Med + , High +]
+
+We used these in our anamoly detection algorithms
+
 ###ANOMALY DETECTION
 
 ####ANOM_SVM_PRED
@@ -218,6 +233,23 @@ the SVM did not give the entry a high probability value and was therefore not
 in the top 5 anomalous months.
 
 
+###Clustering
+  While we ran the clustering algorithms, we were unable to gather anything 
+substianting or anything interesting. One method suggested was to find the months
+that had the specific characteristics and plot them on a timeline to see if the
+months might have been consecutive. If they were consecutive then we could have
+investigated further.
+
+####Top Part of Cluster
+
+![](./pics/Cluster1.png)
+
+
+####Bottom Part of Cluster
+
+![](./pics/Cluster2.png)
+
+
 ###Summary
 Unfortunately, we were unable to explain these large energy growths or why
 1994 was not listed higher in the anomalous probability scale.
@@ -227,6 +259,6 @@ changes but found no correlations.
 
 We also looked at energy subsidies and found no correlation with these growths.
 
-Further investigation needed to explain these growths.
+Further investigation needed to explain these growths as well as clustering results.
 
 
