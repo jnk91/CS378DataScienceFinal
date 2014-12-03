@@ -248,8 +248,8 @@ We also briefly investigated clustering on our datasets. Here are our results.
 ![](./Cluster/Cluster.png)
 
 ####Clustering Analysis
-The clusters we examined contained 10% or higher of the total count. 
-In this case, there were 4 clusters with a > 10% count:
+The clusters we examined contained close to 10% or higher of the total count. 
+In this case, there were 4 clusters:
 
 Cluster 14
 
@@ -427,7 +427,8 @@ Year: 1998	Month: 4
 Year: 1998	Month: 3
 
 #####Cluster 8 Observation
-No generalized trend could be gathered here.
+The only trend noticeable in this cluster is that all of the matches occurred
+in the 1990's.
 
 
 
