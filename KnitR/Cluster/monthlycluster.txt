@@ -1,0 +1,463 @@
+BIODIESEL_CLASS	BIOMASS_CLASS	ETHANOL_CLASS	HYDRO_CLASS	SOL_CLASS	TOT_GEO_CHANGE	TOT_HYDRO_CHANGE	TOT_SOL_CHANGE	TOT_WIND_CHANGE	WIND_CLASS	month-year
+stagnant	stagnant	stagnant	stagnant	stagnant	same	same	same	same	stagnant	197,600.0833
+stagnant	med -	stagnant	med -	stagnant	increased	increased	increased	increased	stagnant	197,600.1667
+stagnant	med +	stagnant	med +	stagnant	increased	increased	decreased	decreased	stagnant	197,600.25
+stagnant	low -	stagnant	med -	stagnant	decreased	decreased	increased	increased	stagnant	197,600.3333
+stagnant	low +	stagnant	med +	stagnant	decreased	increased	increased	increased	stagnant	197,600.4167
+stagnant	low -	stagnant	low +	stagnant	increased	decreased	decreased	decreased	stagnant	197,600.5
+stagnant	low +	stagnant	low +	stagnant	increased	decreased	decreased	decreased	stagnant	197,600.5833
+stagnant	low +	stagnant	med -	stagnant	decreased	decreased	increased	increased	stagnant	197,600.6667
+stagnant	low -	stagnant	high -	stagnant	increased	decreased	increased	increased	stagnant	197,600.75
+stagnant	low +	stagnant	low +	stagnant	decreased	decreased	decreased	decreased	stagnant	197,600.8333
+stagnant	low -	stagnant	med -	stagnant	decreased	decreased	decreased	decreased	stagnant	197,600.9167
+stagnant	low +	stagnant	low +	stagnant	increased	decreased	decreased	decreased	stagnant	197,601
+stagnant	med +	stagnant	low +	stagnant	increased	decreased	decreased	decreased	stagnant	197,700.0833
+stagnant	med -	stagnant	high -	stagnant	increased	decreased	increased	increased	stagnant	197,700.1667
+stagnant	high +	stagnant	high +	stagnant	increased	increased	increased	increased	stagnant	197,700.25
+stagnant	low -	stagnant	med -	stagnant	decreased	increased	increased	increased	stagnant	197,700.3333
+stagnant	low +	stagnant	low +	stagnant	increased	decreased	decreased	decreased	stagnant	197,700.4167
+stagnant	low -	stagnant	med -	stagnant	decreased	decreased	decreased	decreased	stagnant	197,700.5
+stagnant	low +	stagnant	low -	stagnant	increased	decreased	decreased	decreased	stagnant	197,700.5833
+stagnant	low +	stagnant	low -	stagnant	decreased	decreased	decreased	decreased	stagnant	197,700.6667
+stagnant	low -	stagnant	low -	stagnant	increased	increased	increased	increased	stagnant	197,700.75
+stagnant	low +	stagnant	low +	stagnant	increased	increased	decreased	decreased	stagnant	197,700.8333
+stagnant	low -	stagnant	high +	stagnant	decreased	increased	decreased	decreased	stagnant	197,700.9167
+stagnant	low +	stagnant	high +	stagnant	decreased	decreased	decreased	decreased	stagnant	197,701
+stagnant	med +	stagnant	med +	stagnant	decreased	increased	decreased	decreased	stagnant	197,800.0833
+stagnant	med -	stagnant	high -	stagnant	decreased	decreased	increased	increased	stagnant	197,800.1667
+stagnant	high +	stagnant	high +	stagnant	decreased	increased	increased	increased	stagnant	197,800.25
+stagnant	low -	stagnant	low +	stagnant	decreased	increased	increased	increased	stagnant	197,800.3333
+stagnant	low +	stagnant	high +	stagnant	decreased	increased	decreased	decreased	stagnant	197,800.4167
+stagnant	low -	stagnant	high -	stagnant	increased	decreased	increased	increased	stagnant	197,800.5
+stagnant	low +	stagnant	low -	stagnant	increased	decreased	decreased	decreased	stagnant	197,800.5833
+stagnant	low +	stagnant	med -	stagnant	increased	decreased	decreased	decreased	stagnant	197,800.6667
+stagnant	low -	stagnant	low -	stagnant	increased	increased	increased	increased	stagnant	197,800.75
+stagnant	low +	stagnant	med -	stagnant	decreased	decreased	decreased	decreased	stagnant	197,800.8333
+stagnant	low -	stagnant	low +	stagnant	increased	decreased	decreased	decreased	stagnant	197,800.9167
+stagnant	low +	stagnant	high +	stagnant	increased	decreased	decreased	decreased	stagnant	197,801
+stagnant	low +	stagnant	high +	stagnant	decreased	increased	decreased	decreased	stagnant	197,900.0833
+stagnant	med -	stagnant	high -	stagnant	decreased	decreased	increased	increased	stagnant	197,900.1667
+stagnant	high +	stagnant	high +	stagnant	increased	increased	increased	increased	stagnant	197,900.25
+stagnant	low -	stagnant	low -	stagnant	increased	increased	increased	increased	stagnant	197,900.3333
+stagnant	low +	stagnant	high +	stagnant	decreased	increased	decreased	decreased	stagnant	197,900.4167
+stagnant	low -	stagnant	high -	stagnant	increased	decreased	increased	increased	stagnant	197,900.5
+stagnant	low +	stagnant	med -	stagnant	increased	decreased	decreased	decreased	stagnant	197,900.5833
+stagnant	low +	stagnant	med -	stagnant	increased	decreased	decreased	decreased	stagnant	197,900.6667
+stagnant	low -	stagnant	high -	stagnant	decreased	decreased	increased	increased	stagnant	197,900.75
+stagnant	low +	stagnant	med +	stagnant	increased	increased	decreased	decreased	stagnant	197,900.8333
+stagnant	low -	stagnant	high +	stagnant	decreased	increased	decreased	decreased	stagnant	197,900.9167
+stagnant	low +	stagnant	low +	stagnant	increased	decreased	decreased	decreased	stagnant	197,901
+stagnant	high +	stagnant	high +	stagnant	decreased	increased	decreased	decreased	stagnant	198,000.0833
+stagnant	med -	stagnant	high -	stagnant	increased	decreased	increased	increased	stagnant	198,000.1667
+stagnant	med +	stagnant	high +	stagnant	increased	increased	increased	increased	stagnant	198,000.25
+stagnant	low -	stagnant	med +	stagnant	increased	increased	increased	increased	stagnant	198,000.3333
+stagnant	low +	stagnant	high +	stagnant	increased	increased	increased	increased	stagnant	198,000.4167
+stagnant	low -	stagnant	low -	stagnant	decreased	decreased	decreased	decreased	stagnant	198,000.5
+stagnant	low +	stagnant	high -	stagnant	decreased	decreased	decreased	decreased	stagnant	198,000.5833
+stagnant	low +	stagnant	high -	stagnant	increased	decreased	increased	increased	stagnant	198,000.6667
+stagnant	low -	stagnant	med -	stagnant	decreased	decreased	increased	increased	stagnant	198,000.75
+stagnant	low +	stagnant	low -	stagnant	increased	decreased	decreased	decreased	stagnant	198,000.8333
+stagnant	low -	stagnant	med +	stagnant	decreased	increased	decreased	decreased	stagnant	198,000.9167
+stagnant	low +	stagnant	high +	stagnant	decreased	increased	decreased	decreased	stagnant	198,001
+stagnant	med +	high +	low +	stagnant	increased	decreased	decreased	decreased	stagnant	198,100.0833
+stagnant	med -	med -	med -	stagnant	increased	increased	increased	increased	stagnant	198,100.1667
+stagnant	high +	high +	low -	stagnant	increased	decreased	decreased	decreased	stagnant	198,100.25
+stagnant	low -	low -	low +	stagnant	increased	increased	increased	increased	stagnant	198,100.3333
+stagnant	low +	low +	high +	stagnant	decreased	increased	decreased	decreased	stagnant	198,100.4167
+stagnant	low -	low -	med +	stagnant	decreased	increased	decreased	decreased	stagnant	198,100.5
+stagnant	low +	low +	low -	stagnant	increased	decreased	decreased	decreased	stagnant	198,100.5833
+stagnant	low +	stagnant	high -	stagnant	increased	decreased	increased	increased	stagnant	198,100.6667
+stagnant	low -	low -	high -	stagnant	increased	decreased	increased	increased	stagnant	198,100.75
+stagnant	low +	low +	low +	stagnant	decreased	decreased	decreased	decreased	stagnant	198,100.8333
+stagnant	low -	low -	low +	stagnant	decreased	increased	increased	increased	stagnant	198,100.9167
+stagnant	low +	low +	high +	stagnant	decreased	increased	decreased	decreased	stagnant	198,101
+stagnant	low -	high +	high +	stagnant	decreased	increased	decreased	decreased	stagnant	198,200.0833
+stagnant	med -	med -	low -	stagnant	increased	increased	increased	increased	stagnant	198,200.1667
+stagnant	high +	high +	high +	stagnant	decreased	increased	decreased	decreased	stagnant	198,200.25
+stagnant	low -	low -	med -	stagnant	increased	increased	increased	increased	stagnant	198,200.3333
+stagnant	low +	low +	low +	stagnant	increased	increased	increased	increased	stagnant	198,200.4167
+stagnant	low -	low -	low -	stagnant	increased	decreased	decreased	decreased	stagnant	198,200.5
+stagnant	low +	low +	low -	stagnant	decreased	decreased	decreased	decreased	stagnant	198,200.5833
+stagnant	low -	stagnant	high -	stagnant	increased	decreased	increased	increased	stagnant	198,200.6667
+stagnant	low -	low -	high -	stagnant	increased	decreased	increased	increased	stagnant	198,200.75
+stagnant	low +	low +	low -	stagnant	increased	decreased	decreased	decreased	stagnant	198,200.8333
+stagnant	low -	low -	high +	stagnant	increased	increased	decreased	decreased	stagnant	198,200.9167
+stagnant	low +	low +	high +	stagnant	decreased	increased	decreased	decreased	stagnant	198,201
+stagnant	high +	high +	med +	stagnant	increased	decreased	decreased	decreased	high -	198,300.0833
+stagnant	med -	med -	low -	stagnant	decreased	increased	increased	increased	med -	198,300.1667
+stagnant	high +	high +	med +	stagnant	increased	increased	decreased	increased	high +	198,300.25
+stagnant	low -	low -	low -	stagnant	increased	increased	increased	increased	low -	198,300.3333
+stagnant	low +	low +	low +	stagnant	decreased	increased	increased	increased	low +	198,300.4167
+stagnant	low -	low -	low -	stagnant	increased	decreased	decreased	decreased	low -	198,300.5
+stagnant	low +	low +	med -	stagnant	increased	decreased	decreased	decreased	low -	198,300.5833
+stagnant	low +	stagnant	med -	stagnant	increased	decreased	decreased	decreased	low -	198,300.6667
+stagnant	low -	low -	high -	stagnant	increased	decreased	increased	increased	high +	198,300.75
+stagnant	low +	low +	low -	stagnant	increased	decreased	increased	increased	low +	198,300.8333
+stagnant	low -	low -	high +	stagnant	decreased	increased	decreased	decreased	low -	198,300.9167
+stagnant	low +	low +	high +	stagnant	decreased	increased	decreased	decreased	med -	198,301
+stagnant	low +	high +	med -	high -	decreased	decreased	decreased	decreased	low -	198,400.0833
+stagnant	med -	med -	med -	med +	increased	increased	increased	increased	med +	198,400.1667
+stagnant	med +	med +	med +	low +	increased	increased	decreased	decreased	stagnant	198,400.25
+stagnant	low -	low -	low -	low +	increased	increased	increased	increased	high +	198,400.3333
+stagnant	low +	low +	med +	med +	decreased	increased	increased	increased	med +	198,400.4167
+stagnant	low -	low -	med -	med +	decreased	decreased	increased	decreased	med -	198,400.5
+stagnant	low +	low +	low -	high -	decreased	decreased	decreased	decreased	low -	198,400.5833
+stagnant	low +	stagnant	med -	high +	increased	decreased	increased	decreased	med -	198,400.6667
+stagnant	low -	low -	high -	low +	increased	decreased	increased	increased	med +	198,400.75
+stagnant	low +	low +	low -	med -	increased	decreased	decreased	increased	high +	198,400.8333
+stagnant	low -	low -	med +	med -	decreased	increased	decreased	decreased	stagnant	198,400.9167
+stagnant	low +	low +	high +	med -	increased	increased	decreased	increased	high +	198,401
+stagnant	low +	high +	med +	high +	decreased	decreased	increased	decreased	high -	198,500.0833
+stagnant	med -	med -	med -	high -	decreased	increased	decreased	increased	high +	198,500.1667
+stagnant	high +	high +	low -	med +	increased	decreased	increased	decreased	med -	198,500.25
+stagnant	low -	low -	low -	high +	decreased	increased	increased	increased	low -	198,500.3333
+stagnant	low +	low +	med +	low +	increased	increased	increased	decreased	med -	198,500.4167
+stagnant	low -	low -	med -	low +	decreased	decreased	increased	increased	stagnant	198,500.5
+stagnant	low +	low +	high -	med -	increased	decreased	decreased	decreased	med -	198,500.5833
+stagnant	low +	stagnant	med -	high +	increased	decreased	increased	increased	med +	198,500.6667
+stagnant	low -	low -	med -	high -	increased	increased	decreased	increased	high +	198,500.75
+stagnant	low +	low +	med +	med -	decreased	increased	decreased	decreased	high -	198,500.8333
+stagnant	low -	low -	high +	high -	increased	increased	decreased	decreased	med -	198,500.9167
+stagnant	low +	low +	high +	low -	decreased	decreased	decreased	decreased	low -	198,501
+stagnant	low +	high +	high -	high +	increased	decreased	increased	increased	low +	198,600.0833
+stagnant	med -	med -	med +	low -	decreased	increased	increased	increased	stagnant	198,600.1667
+stagnant	high +	high +	high +	high +	increased	increased	increased	increased	high +	198,600.25
+stagnant	low -	low -	low -	med +	decreased	increased	increased	increased	low -	198,600.3333
+stagnant	low +	low +	low -	med +	decreased	decreased	increased	increased	med +	198,600.4167
+stagnant	low -	low -	low -	med -	increased	decreased	decreased	decreased	med -	198,600.5
+stagnant	low +	low +	med -	low +	decreased	decreased	decreased	decreased	stagnant	198,600.5833
+stagnant	low +	stagnant	high -	stagnant	increased	decreased	increased	increased	stagnant	198,600.6667
+stagnant	low -	low -	low -	low -	decreased	increased	increased	decreased	high -	198,600.75
+stagnant	low +	low +	low +	low -	decreased	decreased	decreased	increased	low +	198,600.8333
+stagnant	low -	low -	med +	med -	decreased	increased	decreased	decreased	med -	198,600.9167
+stagnant	low +	low +	high +	high -	increased	decreased	decreased	decreased	stagnant	198,601
+stagnant	low +	high +	low -	low -	decreased	decreased	decreased	decreased	low +	198,700.0833
+stagnant	med -	med -	high -	high +	increased	decreased	increased	increased	low -	198,700.1667
+stagnant	high +	high +	med +	med +	increased	increased	increased	decreased	stagnant	198,700.25
+stagnant	low -	low -	med -	med +	increased	increased	increased	increased	med +	198,700.3333
+stagnant	low +	low +	med +	stagnant	increased	increased	decreased	increased	low +	198,700.4167
+stagnant	low -	low -	high -	med +	decreased	decreased	increased	increased	high +	198,700.5
+stagnant	low +	low +	low -	low +	decreased	decreased	decreased	increased	med +	198,700.5833
+stagnant	low +	stagnant	med -	high -	increased	decreased	decreased	decreased	high -	198,700.6667
+stagnant	low -	low -	low -	med -	increased	increased	increased	increased	stagnant	198,700.75
+stagnant	low +	low +	low -	low -	decreased	decreased	decreased	decreased	low -	198,700.8333
+stagnant	low -	low -	med -	med -	decreased	decreased	decreased	increased	stagnant	198,700.9167
+stagnant	low +	low +	high +	low -	decreased	increased	decreased	decreased	low +	198,701
+stagnant	low +	low +	high -	high +	increased	decreased	increased	decreased	med -	198,800.5833
+stagnant	low +	stagnant	low -	stagnant	decreased	decreased	decreased	decreased	stagnant	198,800.6667
+stagnant	low -	low -	low -	low -	increased	increased	increased	increased	stagnant	198,800.75
+stagnant	low +	low +	med -	high -	increased	decreased	decreased	decreased	stagnant	198,800.8333
+stagnant	low -	low -	high +	stagnant	decreased	increased	decreased	decreased	stagnant	198,800.9167
+stagnant	low +	low +	med +	stagnant	decreased	decreased	decreased	decreased	low +	198,801
+stagnant	low -	stagnant	high +	med +	increased	increased	increased	increased	high +	198,800.0833
+stagnant	med -	med -	high -	med +	decreased	decreased	increased	decreased	high -	198,800.1667
+stagnant	med +	med +	low +	high +	increased	increased	increased	increased	stagnant	198,800.25
+stagnant	low -	low -	low -	high -	increased	increased	decreased	increased	stagnant	198,800.3333
+stagnant	low +	low +	high +	high +	decreased	increased	increased	decreased	stagnant	198,800.4167
+stagnant	low -	low -	high -	low +	increased	decreased	decreased	decreased	stagnant	198,800.5
+stagnant	med +	med +	high +	high +	increased	increased	increased	increased	high +	198,900.0833
+stagnant	med -	med -	high -	med -	decreased	decreased	decreased	increased	high +	198,900.1667
+stagnant	med +	high +	high +	high +	increased	increased	increased	increased	high +	198,900.25
+stagnant	med -	low -	med +	low -	decreased	increased	increased	increased	med -	198,900.3333
+stagnant	med -	low +	high +	low +	increased	increased	decreased	decreased	high -	198,900.4167
+stagnant	med +	low -	med -	low -	decreased	decreased	decreased	decreased	high -	198,900.5
+stagnant	med +	low +	high -	med +	decreased	decreased	increased	decreased	med -	198,900.5833
+stagnant	med +	stagnant	high -	low -	decreased	decreased	decreased	decreased	high -	198,900.6667
+stagnant	low -	low -	med -	low -	increased	increased	increased	increased	high +	198,900.75
+stagnant	low +	low +	med +	low +	increased	increased	decreased	decreased	high -	198,900.8333
+stagnant	low +	low -	med +	low -	decreased	increased	decreased	decreased	high -	198,900.9167
+stagnant	low +	low +	low +	low -	decreased	decreased	decreased	decreased	high -	198,901
+stagnant	med -	high -	med +	med +	increased	increased	increased	increased	high +	199,000.0833
+stagnant	low -	med -	low +	med -	increased	increased	increased	decreased	high -	199,000.1667
+stagnant	med +	high +	high +	high +	increased	increased	increased	increased	med +	199,000.25
+stagnant	med -	low -	med -	low -	decreased	decreased	increased	increased	high +	199,000.3333
+stagnant	high -	low +	med +	med +	increased	increased	increased	decreased	high -	199,000.4167
+stagnant	high -	low -	low +	low -	increased	decreased	decreased	increased	high +	199,000.5
+stagnant	high +	low +	high -	low +	decreased	decreased	decreased	decreased	high -	199,000.5833
+stagnant	high +	stagnant	high -	low +	decreased	decreased	decreased	decreased	high -	199,000.6667
+stagnant	low -	low -	high -	med -	increased	decreased	increased	increased	high +	199,000.75
+stagnant	low -	low +	med +	low +	increased	increased	increased	increased	high +	199,000.8333
+stagnant	med -	low -	med +	med -	decreased	increased	decreased	increased	high +	199,000.9167
+stagnant	high +	low +	high +	low +	decreased	increased	decreased	decreased	high -	199,001
+stagnant	high +	high +	med +	low +	decreased	decreased	decreased	decreased	high -	199,100.0833
+stagnant	high -	med -	high -	med -	increased	increased	increased	increased	high +	199,100.1667
+stagnant	low +	high +	high +	med +	increased	increased	increased	decreased	high -	199,100.25
+stagnant	high -	low -	low -	low -	decreased	increased	increased	increased	high +	199,100.3333
+stagnant	high +	low +	high +	high +	decreased	increased	increased	increased	high +	199,100.4167
+stagnant	low +	low -	med -	low -	increased	decreased	decreased	decreased	high -	199,100.5
+stagnant	low -	low +	med -	med +	decreased	decreased	decreased	decreased	stagnant	199,100.5833
+stagnant	high +	stagnant	high -	low -	decreased	decreased	decreased	increased	high +	199,100.6667
+stagnant	med +	low -	high -	low -	increased	decreased	increased	decreased	med -	199,100.75
+stagnant	med -	low +	low -	low -	increased	decreased	decreased	increased	high +	199,100.8333
+stagnant	low -	low -	low +	med -	increased	increased	decreased	decreased	stagnant	199,100.9167
+stagnant	high +	low +	high +	low +	decreased	increased	decreased	decreased	high -	199,101
+stagnant	low +	high +	low -	low +	decreased	decreased	decreased	decreased	high -	199,200.0833
+stagnant	high -	med -	high -	med -	decreased	decreased	increased	increased	high +	199,200.1667
+stagnant	med -	med +	high +	med +	increased	increased	increased	decreased	high -	199,200.25
+stagnant	med -	low -	high -	low -	decreased	decreased	increased	increased	low -	199,200.3333
+stagnant	high -	low +	high +	med +	increased	increased	increased	decreased	high -	199,200.4167
+stagnant	high +	low -	low +	low -	decreased	decreased	decreased	decreased	high -	199,200.5
+stagnant	med +	low +	high -	med +	decreased	decreased	decreased	decreased	stagnant	199,200.5833
+stagnant	med +	stagnant	med -	low -	increased	decreased	increased	increased	high +	199,200.6667
+stagnant	med -	low -	med -	med -	decreased	decreased	increased	increased	high +	199,200.75
+stagnant	med +	low +	low -	low +	increased	decreased	increased	decreased	high -	199,200.8333
+stagnant	low -	low -	high +	low -	decreased	increased	decreased	increased	high +	199,200.9167
+stagnant	low -	low +	high +	low -	decreased	increased	decreased	increased	high +	199,201
+stagnant	med +	med +	low +	low +	increased	increased	increased	decreased	high -	199,300.0833
+stagnant	high -	low -	high -	med -	increased	decreased	decreased	decreased	high -	199,300.1667
+stagnant	med +	high +	high +	high +	decreased	increased	increased	increased	high +	199,300.25
+stagnant	high -	high -	med +	low +	increased	increased	increased	decreased	high -	199,300.3333
+stagnant	high -	low -	high +	low +	decreased	increased	increased	increased	stagnant	199,300.4167
+stagnant	low +	low +	med -	med -	decreased	decreased	decreased	decreased	high -	199,300.5
+stagnant	med +	low +	high -	med +	increased	decreased	decreased	increased	high +	199,300.5833
+stagnant	high +	high -	high -	low +	increased	decreased	increased	decreased	high -	199,300.6667
+stagnant	low -	high +	high -	low -	increased	decreased	increased	increased	high +	199,300.75
+stagnant	low +	low +	low -	low -	decreased	decreased	decreased	increased	high +	199,300.8333
+stagnant	low +	high +	low +	low -	decreased	increased	decreased	increased	high +	199,300.9167
+stagnant	low +	low -	high +	low +	decreased	increased	decreased	decreased	high -	199,301
+stagnant	high -	high -	high +	med +	increased	increased	increased	increased	high +	199,400.4167
+stagnant	high +	low -	low -	low -	increased	decreased	decreased	increased	high +	199,400.3333
+stagnant	high +	high +	med -	low -	decreased	decreased	decreased	decreased	high -	199,401
+stagnant	low -	med -	high -	low +	increased	decreased	increased	increased	high +	199,400.9167
+stagnant	low +	med +	med -	med +	increased	decreased	increased	decreased	high -	199,400.8333
+stagnant	high -	high -	med -	low -	decreased	decreased	decreased	decreased	high -	199,400.75
+stagnant	med +	high +	high +	low +	decreased	increased	decreased	decreased	high -	199,400.6667
+stagnant	high +	high -	high +	low +	decreased	increased	increased	increased	high +	199,400.5833
+stagnant	high -	med -	med +	low -	decreased	increased	increased	increased	high +	199,400.5
+stagnant	high +	high +	high -	low -	increased	decreased	decreased	decreased	high -	199,400.0833
+stagnant	high -	high -	low -	med -	increased	increased	increased	increased	high +	199,400.1667
+stagnant	med +	high +	high +	high +	increased	increased	increased	increased	high +	199,400.25
+stagnant	med -	low +	med +	med -	decreased	decreased	decreased	decreased	high -	199,500.0833
+stagnant	high +	high +	low +	low +	increased	increased	increased	increased	high +	199,500.9167
+stagnant	med +	high -	med -	med +	increased	decreased	increased	increased	high +	199,500.8333
+stagnant	med -	high -	high -	low -	decreased	decreased	decreased	increased	high +	199,500.75
+stagnant	high +	high -	high +	med +	increased	increased	decreased	decreased	low -	199,500.6667
+stagnant	high -	high +	high +	high -	increased	increased	decreased	decreased	high -	199,501
+stagnant	high -	low +	low +	high +	decreased	increased	increased	increased	high +	199,500.5
+stagnant	low -	high -	med -	low +	decreased	decreased	increased	decreased	high -	199,500.4167
+stagnant	high +	high +	high -	med -	increased	decreased	decreased	decreased	high -	199,500.3333
+stagnant	high -	med +	high +	low -	increased	increased	decreased	decreased	high -	199,500.25
+stagnant	high -	high -	high -	high -	decreased	decreased	decreased	increased	high +	199,500.1667
+stagnant	high +	med -	med +	high +	decreased	increased	increased	increased	high +	199,500.5833
+stagnant	high -	high -	high +	low +	decreased	increased	increased	decreased	high -	199,600.4167
+stagnant	high -	high +	low -	low -	increased	decreased	decreased	decreased	high -	199,600.3333
+stagnant	high +	high +	med +	low +	decreased	decreased	decreased	decreased	high -	199,600.25
+stagnant	high -	low +	med -	high -	increased	decreased	decreased	decreased	high -	199,600.1667
+stagnant	high +	high +	low -	med +	decreased	decreased	decreased	increased	high +	199,600.0833
+stagnant	med -	high -	low +	high +	increased	increased	increased	increased	high +	199,600.5
+stagnant	low +	high +	med -	med -	increased	decreased	decreased	decreased	high -	199,601
+stagnant	high +	low +	high -	low -	increased	decreased	increased	decreased	high -	199,600.9167
+stagnant	low +	high -	low -	low +	increased	decreased	increased	increased	high +	199,600.8333
+stagnant	high -	high -	low -	med -	decreased	increased	decreased	increased	high +	199,600.75
+stagnant	high +	med +	high +	med +	increased	increased	decreased	increased	high +	199,600.6667
+stagnant	med -	high -	med +	med +	decreased	increased	increased	increased	high +	199,600.5833
+stagnant	low +	high +	high +	high -	decreased	increased	decreased	decreased	high -	199,700.0833
+stagnant	high -	med +	low -	med -	decreased	increased	increased	increased	med -	199,700.1667
+stagnant	high +	high +	high -	med +	increased	decreased	decreased	decreased	high -	199,701
+stagnant	low +	high -	med -	low -	increased	increased	increased	increased	low +	199,700.9167
+stagnant	high +	high +	low +	med +	increased	increased	increased	increased	high +	199,700.8333
+stagnant	high -	high -	med -	low -	increased	decreased	decreased	decreased	med -	199,700.75
+stagnant	med +	high -	high +	med +	decreased	increased	decreased	increased	high +	199,700.6667
+stagnant	low -	high +	high +	low +	decreased	increased	decreased	decreased	low -	199,700.5833
+stagnant	high -	high -	med +	low -	decreased	increased	increased	increased	low +	199,700.5
+stagnant	high +	high +	low -	low -	increased	increased	increased	decreased	high -	199,700.4167
+stagnant	med -	low -	med -	low -	increased	decreased	decreased	decreased	med -	199,700.3333
+stagnant	low -	high +	med +	low +	decreased	increased	decreased	decreased	high -	199,700.25
+stagnant	high +	high +	high -	med -	increased	decreased	decreased	decreased	high -	199,800.0833
+stagnant	high -	high -	high +	med +	decreased	increased	increased	increased	high +	199,800.5
+stagnant	high +	low +	high -	med +	increased	decreased	decreased	increased	high +	199,800.5833
+stagnant	low +	med +	high -	low -	increased	decreased	decreased	decreased	high -	199,800.6667
+stagnant	low -	low +	high -	med -	increased	decreased	increased	increased	high +	199,800.75
+stagnant	high +	high +	high +	low -	decreased	increased	decreased	decreased	med -	199,801
+stagnant	high -	high -	high -	low -	increased	decreased	increased	decreased	high -	199,800.9167
+stagnant	med +	high -	high +	med +	decreased	increased	increased	decreased	high -	199,800.4167
+stagnant	low -	high +	high -	low +	increased	decreased	increased	decreased	high -	199,800.3333
+stagnant	low +	high +	high +	low +	increased	increased	decreased	decreased	high -	199,800.25
+stagnant	high -	high -	med -	high -	decreased	increased	decreased	increased	high +	199,800.1667
+stagnant	high +	high +	high -	high +	increased	decreased	increased	increased	high +	199,800.8333
+stagnant	med +	high -	high +	low +	decreased	increased	increased	decreased	med -	199,900.4167
+stagnant	high -	med +	med +	low -	decreased	increased	decreased	decreased	med -	199,900.5
+stagnant	high +	high -	low -	low +	decreased	decreased	decreased	increased	high +	199,900.5833
+stagnant	low -	high +	high -	low -	increased	decreased	decreased	decreased	high -	199,900.6667
+stagnant	med -	low +	high -	med -	increased	decreased	increased	increased	low -	199,900.75
+stagnant	med -	high +	low -	med +	increased	decreased	increased	increased	high +	199,900.8333
+stagnant	high +	low +	med +	med -	decreased	increased	decreased	decreased	high -	199,900.9167
+stagnant	med -	high +	high +	low +	decreased	increased	decreased	increased	high +	199,901
+stagnant	high +	high -	high +	low -	decreased	increased	decreased	decreased	high -	199,900.0833
+stagnant	high -	high -	low -	med -	decreased	increased	increased	increased	med -	199,900.1667
+stagnant	med -	med +	high +	high +	increased	increased	increased	increased	high +	199,900.25
+stagnant	high +	med -	high -	low -	decreased	decreased	increased	decreased	high -	199,900.3333
+stagnant	high -	high +	med -	med -	increased	decreased	decreased	increased	high +	200,000.0833
+stagnant	high +	high -	high -	low -	decreased	decreased	increased	increased	med +	200,000.1667
+stagnant	med +	high +	high +	med +	increased	increased	increased	decreased	high -	200,000.25
+stagnant	low -	high -	med +	low -	increased	increased	increased	increased	med -	200,000.3333
+stagnant	low +	high +	low -	med +	decreased	decreased	decreased	increased	high +	200,000.4167
+stagnant	high -	high -	med -	low -	decreased	decreased	decreased	increased	med +	200,000.5
+stagnant	high +	high +	low -	med +	decreased	decreased	increased	decreased	high -	200,000.5833
+stagnant	low +	high +	med -	low -	decreased	decreased	decreased	decreased	low -	200,000.6667
+stagnant	med -	med -	high -	low -	decreased	decreased	increased	increased	high -	200,000.75
+stagnant	high +	high +	low -	low -	increased	decreased	increased	increased	high +	200,000.8333
+stagnant	low -	low -	high +	med -	increased	increased	decreased	increased	high +	200,000.9167
+stagnant	low -	low +	low +	low +	decreased	decreased	decreased	decreased	high -	200,001
+high +	high -	high -	low -	high +	increased	increased	increased	increased	high +	200,100.4167
+high -	low +	med -	med -	high -	increased	decreased	decreased	increased	med +	200,100.3333
+high +	med +	high +	med +	low -	decreased	decreased	decreased	decreased	high -	200,101
+high +	low -	low -	high -	low -	increased	decreased	increased	decreased	high -	200,100.9167
+high -	med +	high +	low -	low +	decreased	decreased	increased	increased	high +	200,100.8333
+high -	med -	high -	low +	med +	decreased	increased	increased	decreased	high -	200,100.75
+high -	low +	high -	high +	med +	decreased	increased	decreased	increased	high +	200,100.6667
+high +	low +	high +	low -	low +	increased	decreased	increased	increased	med +	200,100.5833
+high -	med -	high -	high +	low -	decreased	increased	increased	increased	med +	200,100.5
+low -	high +	high +	med -	high -	decreased	decreased	decreased	decreased	high -	200,100.0833
+high -	high -	high -	med -	med -	increased	increased	increased	increased	high +	200,100.1667
+high +	med +	med +	high +	high +	increased	increased	increased	increased	high +	200,100.25
+high +	low +	low +	low +	med -	increased	increased	decreased	increased	high +	200,200.0833
+high -	low +	high +	med -	low +	increased	decreased	increased	decreased	high -	200,200.9167
+med -	med +	high -	high -	low +	increased	decreased	increased	increased	high +	200,200.8333
+med -	med -	high -	low -	low +	decreased	decreased	increased	decreased	low +	200,200.75
+stagnant	low -	low -	high +	med +	decreased	increased	decreased	increased	high +	200,200.6667
+high +	med +	high +	low +	high -	increased	increased	decreased	decreased	high -	200,201
+high +	high -	high -	high +	high +	decreased	increased	increased	increased	high +	200,200.5
+med -	med +	high +	med -	low -	increased	decreased	decreased	decreased	low -	200,200.4167
+high -	med -	med -	med -	med -	decreased	decreased	decreased	decreased	low -	200,200.3333
+high +	low +	high -	high -	low +	increased	decreased	decreased	decreased	high -	200,200.25
+high -	med -	high +	low -	high -	decreased	increased	decreased	decreased	high -	200,200.1667
+high -	high +	high +	high +	high +	decreased	increased	increased	increased	high +	200,200.5833
+high -	low -	high +	high +	low -	increased	increased	increased	increased	high +	200,300.4167
+low -	low +	low +	high -	low -	increased	decreased	decreased	increased	med +	200,300.3333
+high +	low +	high -	low -	low +	decreased	decreased	decreased	decreased	med -	200,300.25
+high -	med -	high +	high -	high -	decreased	decreased	decreased	decreased	high -	200,300.1667
+high +	med +	high -	low +	med +	increased	decreased	decreased	decreased	high -	200,300.0833
+high -	low -	med +	high +	high +	increased	increased	increased	increased	high +	200,300.5
+low +	high +	high +	high -	high -	decreased	decreased	decreased	decreased	med +	200,301
+high +	med -	low -	high -	low -	increased	decreased	increased	decreased	high -	200,300.9167
+high -	low -	high -	med -	med +	increased	decreased	increased	decreased	med -	200,300.8333
+high +	low -	high -	low +	low +	increased	increased	increased	decreased	low -	200,300.75
+high -	med +	high +	high +	low +	decreased	increased	decreased	decreased	med -	200,300.6667
+high -	low +	med -	med +	low +	increased	increased	increased	increased	high +	200,300.5833
+high +	med +	high +	med -	med -	decreased	decreased	decreased	decreased	low +	200,400.0833
+low +	med -	low -	med -	med -	increased	decreased	increased	increased	low +	200,400.1667
+high -	high +	high +	high +	med +	decreased	increased	decreased	increased	high +	200,401
+low -	med -	med -	high -	low -	increased	decreased	increased	decreased	high -	200,400.9167
+med +	low +	low +	med -	med +	increased	decreased	increased	increased	high +	200,400.8333
+med -	low -	low -	med +	low +	decreased	increased	increased	increased	med +	200,400.75
+high -	low +	low -	med +	med +	decreased	decreased	decreased	decreased	low -	200,400.6667
+med +	low +	low -	med +	low +	increased	increased	increased	increased	high +	200,400.5833
+med -	low -	med +	med +	low -	increased	increased	increased	increased	high +	200,400.5
+med +	low -	med -	low -	low +	increased	decreased	increased	increased	high +	200,400.4167
+high +	low +	low -	high -	med -	increased	decreased	decreased	decreased	high -	200,400.3333
+high -	low -	low -	med +	low +	decreased	increased	decreased	decreased	low -	200,400.25
+high +	med +	high +	med +	med -	decreased	decreased	decreased	decreased	high -	200,500.0833
+low -	low -	med +	high +	high +	increased	increased	increased	increased	high +	200,500.5
+high -	low +	low +	low -	low -	decreased	decreased	decreased	decreased	high -	200,500.5833
+high +	low +	med +	high -	low +	decreased	decreased	decreased	decreased	high -	200,500.6667
+high -	med -	med -	high -	med -	increased	decreased	increased	increased	high +	200,500.75
+low -	med +	high +	high +	med -	decreased	increased	decreased	increased	high +	200,501
+high +	low -	med -	high -	low -	increased	increased	increased	increased	high -	200,500.9167
+low -	low -	high -	high +	high +	increased	increased	increased	increased	med +	200,500.4167
+low -	low -	med -	high -	med -	decreased	decreased	decreased	increased	low -	200,500.3333
+low -	med +	med +	low -	low -	decreased	decreased	decreased	decreased	med -	200,500.25
+high +	low -	med -	med -	high -	decreased	decreased	decreased	decreased	high -	200,500.1667
+high -	med +	high +	high -	high +	increased	decreased	increased	increased	high +	200,500.8333
+high +	low +	high +	high +	high +	decreased	increased	increased	increased	high +	200,600.4167
+high +	low +	high +	low -	low -	increased	decreased	decreased	decreased	high -	200,600.5
+high -	low +	med -	high -	low +	decreased	decreased	decreased	decreased	low -	200,600.5833
+high +	low +	low +	high -	low +	increased	decreased	increased	decreased	high -	200,600.6667
+med -	low -	low -	high -	med -	increased	decreased	increased	increased	high +	200,600.75
+low -	low +	med +	low -	low -	increased	decreased	decreased	increased	high +	200,600.8333
+low -	low -	low -	high +	med -	decreased	increased	decreased	increased	low +	200,600.9167
+high +	low +	low +	med +	low +	decreased	decreased	decreased	decreased	low -	200,601
+high -	med -	high -	high +	low +	decreased	increased	increased	decreased	low -	200,600.0833
+high -	high -	med -	med -	med -	decreased	decreased	decreased	decreased	high -	200,600.1667
+high +	med +	high +	low -	high +	increased	decreased	increased	increased	high +	200,600.25
+low -	low -	low +	high +	low +	increased	increased	increased	increased	low +	200,600.3333
+high +	high +	high +	med -	med +	decreased	decreased	decreased	decreased	low -	200,700.0833
+high -	high -	med -	high -	med -	decreased	decreased	decreased	increased	low +	200,700.1667
+med +	med +	med +	high +	high +	increased	increased	increased	increased	high +	200,700.25
+high -	low -	med -	low -	low -	increased	increased	increased	increased	low +	200,700.3333
+high +	low +	med +	med +	med +	decreased	increased	increased	decreased	med -	200,700.4167
+high +	high +	high +	high -	high -	decreased	decreased	decreased	increased	high +	200,701
+high -	med -	high -	high +	high +	increased	increased	increased	decreased	high -	200,700.5833
+high +	low +	low +	high -	low -	decreased	decreased	decreased	increased	high +	200,700.6667
+med -	low -	low -	high -	low -	increased	decreased	increased	increased	med +	200,700.75
+low +	med +	high +	low +	low +	increased	increased	increased	increased	high +	200,700.8333
+high -	low -	low -	med +	med -	decreased	increased	decreased	decreased	med -	200,700.9167
+high +	low -	high -	high +	med +	decreased	increased	increased	decreased	high -	200,700.5
+high -	high +	high +	med -	med +	decreased	decreased	decreased	increased	high +	200,800.0833
+high -	med -	low +	med -	low -	decreased	decreased	increased	decreased	med -	200,800.1667
+high -	low +	low +	high +	high +	increased	increased	increased	increased	high +	200,800.25
+high +	low +	med +	low +	low -	increased	increased	increased	increased	med +	200,800.3333
+high +	low +	low +	high +	low +	increased	increased	increased	decreased	low +	200,800.4167
+high +	low +	high +	high -	high -	decreased	decreased	decreased	increased	high +	200,801
+low +	low +	med -	high +	high +	decreased	increased	increased	decreased	high -	200,800.5833
+high +	low +	low +	high -	low -	increased	decreased	increased	decreased	high -	200,800.6667
+low +	low -	low -	high -	low -	increased	decreased	increased	increased	low -	200,800.75
+high -	low +	med +	low -	low -	increased	decreased	decreased	increased	high +	200,800.8333
+low +	low -	med -	low +	med -	decreased	increased	decreased	increased	low +	200,800.9167
+high -	low -	med -	high +	high +	decreased	increased	increased	decreased	low +	200,800.5
+high -	low -	low +	high -	low -	decreased	decreased	decreased	increased	high +	200,900.0833
+med -	med -	high -	high -	med -	increased	decreased	increased	increased	low -	200,900.1667
+high +	high +	high +	high +	high +	increased	increased	increased	increased	high +	200,900.25
+low +	low -	med +	high +	low -	increased	increased	increased	increased	med +	200,900.3333
+high -	med +	med +	high +	low +	decreased	increased	increased	decreased	high -	200,900.4167
+high +	high +	med +	high -	high -	decreased	decreased	decreased	decreased	high +	200,901
+high -	low -	low -	med -	high +	increased	increased	increased	decreased	high -	200,900.5833
+high +	low +	low +	high -	low -	decreased	decreased	decreased	increased	high +	200,900.6667
+high +	med -	med -	high -	med -	increased	decreased	increased	decreased	high -	200,900.75
+low +	med +	med +	high +	low -	increased	increased	decreased	increased	high +	200,900.8333
+high -	low -	low -	med +	med -	increased	increased	decreased	increased	low +	200,900.9167
+high -	med -	med -	high +	med +	decreased	increased	increased	decreased	high -	200,900.5
+high -	med +	med +	high -	high +	decreased	decreased	increased	increased	high +	201,000.0833
+high +	med -	med -	med -	med -	decreased	increased	increased	decreased	high -	201,000.1667
+high -	med +	med +	low +	high +	increased	increased	increased	increased	high +	201,000.25
+high +	low -	low +	med -	low +	increased	increased	increased	increased	high +	201,000.3333
+high -	low +	med +	high +	med +	decreased	increased	decreased	decreased	high -	201,000.4167
+high -	med +	low +	med -	med -	decreased	decreased	decreased	decreased	low +	201,001
+high +	low -	low -	med +	high +	increased	increased	increased	decreased	high -	201,000.5833
+high -	low +	low -	high -	low -	increased	decreased	decreased	decreased	low -	201,000.6667
+high +	low -	med -	high -	low -	increased	decreased	increased	increased	med +	201,000.75
+high -	low +	med +	low +	low -	increased	increased	increased	increased	high +	201,000.8333
+high -	low -	low -	high +	low -	decreased	increased	decreased	increased	high +	201,000.9167
+med -	low -	low +	high +	med +	decreased	increased	increased	decreased	high -	201,000.5
+high +	low +	med -	high -	high +	increased	decreased	increased	decreased	high -	201,100.75
+high -	low +	med +	med -	low +	increased	decreased	increased	increased	high +	201,100.8333
+high +	low +	low -	low +	med -	decreased	increased	decreased	increased	high +	201,100.9167
+med +	med +	med +	high +	low +	decreased	increased	decreased	decreased	high -	201,101
+high -	med -	med -	med +	med -	decreased	decreased	decreased	decreased	high -	201,100.0833
+high +	med +	high +	low +	high +	decreased	increased	increased	decreased	high -	201,100.6667
+high -	med -	med -	high +	med -	increased	increased	increased	increased	high +	201,100.25
+high +	med -	med -	low +	low -	increased	increased	increased	increased	high +	201,100.3333
+low +	low +	med +	low +	low +	increased	increased	increased	decreased	med -	201,100.4167
+high +	low +	low +	low -	low -	decreased	decreased	decreased	decreased	med -	201,100.5
+low -	low -	med -	low -	low +	decreased	decreased	decreased	decreased	high -	201,100.5833
+high -	med -	med -	high -	high -	increased	decreased	decreased	increased	high +	201,100.1667
+high +	med +	low +	med -	high +	decreased	decreased	increased	increased	high +	201,200.0833
+high +	low -	low -	high -	low -	increased	decreased	increased	decreased	high -	201,200.1667
+high +	med +	med +	high +	high +	increased	increased	increased	increased	high +	201,200.25
+low +	low -	low -	low +	low +	increased	increased	increased	decreased	med -	201,200.3333
+low +	med +	med +	med +	high +	decreased	increased	increased	decreased	low -	201,200.4167
+high -	low -	med -	high -	med -	decreased	decreased	decreased	increased	high +	201,201
+high +	low +	low +	high +	med +	decreased	increased	increased	decreased	high -	201,200.5833
+med +	low +	med +	high -	low -	increased	decreased	decreased	decreased	low -	201,200.6667
+high -	med -	high -	high -	low -	increased	decreased	increased	increased	low +	201,200.75
+high -	low +	high +	med -	low +	increased	decreased	increased	increased	high +	201,200.8333
+med +	low -	med -	high +	med -	decreased	increased	decreased	decreased	med -	201,200.9167
+high +	low +	med +	high +	med +	decreased	increased	increased	decreased	low +	201,200.5
+high -	low -	med -	med -	med +	increased	decreased	decreased	increased	high +	201,300.0833
+low +	med -	med -	high -	low -	increased	decreased	increased	increased	low -	201,300.1667
+high +	high +	high +	low +	high +	increased	decreased	increased	increased	high +	201,300.25
+med +	low -	low +	high +	low +	increased	increased	increased	increased	high +	201,300.3333
+low +	med +	low +	high +	med +	decreased	increased	increased	decreased	med -	201,300.4167
+high +	med +	low -	high -	low -	decreased	decreased	decreased	decreased	high -	201,301
+high -	low -	low -	high +	low +	increased	increased	increased	decreased	high -	201,300.5833
+high -	low -	low -	high -	low +	increased	decreased	increased	decreased	high -	201,300.6667
+high +	low -	low -	high -	low -	increased	decreased	increased	increased	high +	201,300.75
+high +	med +	low +	low +	low +	increased	increased	increased	increased	high +	201,300.8333
+high -	low -	low -	low +	med -	decreased	decreased	decreased	increased	high +	201,300.9167
+high -	low -	low +	high +	med +	increased	increased	increased	decreased	high -	201,300.5
+high -	low -	med -	high -	med +	decreased	decreased	decreased	increased	high +	201,400.0833
+high +	med -	med -	high -	low -	increased	decreased	increased	decreased	high -	201,400.1667
+high +	high +	high +	high +	high +	increased	increased	increased	increased	high +	201,400.5
+high -	low -	low -	low -	high -	increased	increased	decreased	increased	high +	201,400.3333
+high +	low +	low +	med +	med +	decreased	increased	increased	decreased	high -	201,400.4167
+high -	low -	med -	med -	high -	decreased	decreased	decreased	increased	high +	201,400.25
